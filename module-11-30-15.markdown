@@ -58,7 +58,7 @@
 * Jerrod Paul Junker
 * Jhun de Andres
 * Ryan Johnson
-* John Slota
+* John Slota - Advice on how to save your money from someone who got paid to tell people how to save their money
 * Beth Secor - [Applying Statistics to Benchmarking](https://gist.github.com/bethsecor/fbbddc66621855e24ae3)
 * Greg Armstrong - Can Programming Solve Spinal-Cord Injury?
 * Hector Huertas Baeza - [Why bundler exists and how does it works?](https://gist.github.com/hectorhuertas/6dd37217ddc1ae977a8c)
